@@ -143,7 +143,18 @@ nav svg {
   width: 40px;
   color: var(--clr-white);
 }
-
+.amount-container {
+  position: absolute;
+  top: -0.6rem;
+  right: -0.6rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  border-radius: 50%;
+  background: var(--clr-primary-light);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .total-amount {
   color: var(--clr-white);
   margin-bottom: 0;
