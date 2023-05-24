@@ -178,16 +178,7 @@ Cart
   text-align: center;
   margin-bottom: 3rem;
 }
-.empty-cart {
-  text-transform: lowercase;
-  color: var(--clr-grey-5);
-  margin-top: 1rem;
-  text-align: center;
-}
-.cart footer {
-  margin-top: 4rem;
-  text-align: center;
-}
+
 .cart-total h4 {
   text-transform: capitalize;
   display: flex;
