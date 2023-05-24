@@ -55,6 +55,9 @@ const cartSlice = createSlice({
       state.isLoading = false;
       state.cartItems = action.payload;
     },
+    [getCartItems.rejected]: (state) => {
+      state.isLoading = false;
+    },
   },
 });
 
