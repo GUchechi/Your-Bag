@@ -256,18 +256,7 @@ Cart Item
   border: none;
   cursor: pointer;
 }
-.amount-btn svg {
-  color: var(--clr-primary);
-}
-.amount-btn:hover svg {
-  color: var(--clr-primary-light);
-}
-.amount {
-  text-align: center;
-  margin-bottom: 0;
-  font-size: 1.25rem;
-  line-height: 1;
-}
+
 hr {
   background: var(--clr-grey-5);
   border-color: transparent;
