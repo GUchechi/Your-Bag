@@ -173,7 +173,11 @@ Cart
   padding: 2.5rem 0;
   max-width: var(--fixed-width);
 }
-
+.cart h2 {
+  text-transform: uppercase;
+  text-align: center;
+  margin-bottom: 3rem;
+}
 .empty-cart {
   text-transform: lowercase;
   color: var(--clr-grey-5);
