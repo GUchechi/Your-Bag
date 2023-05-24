@@ -155,7 +155,11 @@ nav svg {
   align-items: center;
   justify-content: center;
 }
-
+.total-amount {
+  color: var(--clr-white);
+  margin-bottom: 0;
+  font-size: 1.25rem;
+}
 /*
 =============== 
 Cart
