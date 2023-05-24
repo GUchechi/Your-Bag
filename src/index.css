@@ -295,3 +295,15 @@ hr {
   padding: 2rem 1rem;
   text-align: center;
 }
+.modal h4 {
+  margin-bottom: 0;
+  line-height: 1.5;
+}
+.modal .clear-btn,
+.modal .confirm-btn {
+  margin-top: 1rem;
+}
+.btn-container {
+  display: flex;
+  justify-content: space-around;
+}
